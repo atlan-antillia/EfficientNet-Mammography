@@ -122,7 +122,7 @@ venv.bak/
 
 #
 efficientnetv2-b0/
-projects/DDSM_Manmography/DDSM_Images/
+projects/DDSM_Mammography/DDSM_Images/
 
 # mypy
 .mypy_cache/
