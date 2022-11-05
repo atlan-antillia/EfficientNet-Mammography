@@ -120,6 +120,10 @@ venv.bak/
 # mkdocs documentation
 /site
 
+#
+efficientnetv2-b0/
+projects/DDSM_Manmography/DDSM_Images/
+
 # mypy
 .mypy_cache/
 .dmypy.json
@@ -127,3 +131,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+

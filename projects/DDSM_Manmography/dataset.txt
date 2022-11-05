@@ -1,0 +1,17 @@
+New database Pictures of papsmear cells from the uterine cervix:
+
+This is based on new single cell pictures of papsmear cells from the uterine 
+cervix, which is created by cytotechnicians at Herlev Hospital, will here 
+be presented, and referred to as the new data.
+
+This has been taken from the followin web site:
+http://mde-lab.aegean.gr/index.php/downloads
+
+
+See also:
+Pap-smear Benchmark Data For Pattern ClassiﬁcationJan Jantzen , 
+Jonas Norup , 
+George Dounias , 
+Beth Bjerregaard
+
+https://www.researchgate.net/publication/265873515_Pap-smear_Benchmark_Data_For_Pattern_Classification
