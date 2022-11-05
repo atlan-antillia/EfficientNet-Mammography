@@ -346,8 +346,19 @@ Confusion matrix:<br>
 
 <h3>References</h3>
 <b>
-1.Dataset of Breast mammography images with Masses</b><br>
+1. Dataset of Breast mammography images with Masses</b><br>
 <pre>
 https://data.mendeley.com/datasets/ywsbh3ndr8/5
 </pre>
-
+<b>
+2. Deep convolutional neural networks for mammography: advances, challenges and applications</b><br>
+Dina Abdelhafiz, Clifford Yang, Reda Ammar & Sheida Nabavi <br>
+<pre>
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2823-4
+</pre>
+<b>
+3. Deep learning in mammography images segmentation and classification: Automated CNN approach</b><br>
+Author links open overlay panelWessam M.SalamaaMoustafa H.Alyb
+<pre>
+https://www.sciencedirect.com/science/article/pii/S1110016821002027
+</pre>
