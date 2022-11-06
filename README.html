@@ -1,5 +1,5 @@
 <h2>
-EfficientNet Mammography (Updated: 2022/11/06)
+EfficientNet Mammography (Updated: 2022/11/07)
 </h2>
 <a href="#1">1 EfficientNetV2 Mammography Classification </a><br>
 <a href="#1.1">1.1 Clone repository</a><br>
@@ -16,6 +16,7 @@ EfficientNet Mammography (Updated: 2022/11/06)
 <a href="#6">6 Evaluation</a><br>
 <a href="#6.1">6.1 Evaluation script</a><br>
 <a href="#6.2">6.2 Evaluation result</a><br>
+<a href="#7">Appendices</a><br>
 
 <h2>
 <a id="1">1 EfficientNetV2 Mammography Classification</a>
@@ -70,6 +71,9 @@ You will have the following directory tree:<br>
  We have created <b>DDSM_Image</b> dataset from <b>DDSM Dataset</b> 
  by using <a href="./projects/DDSM_Mammography/split_master.py">split_master.py</a> script.<br>
  By our preliminary experiment,  we could not train the Mammography EfficientNetV2 FineTuning Model well by using <b>INbreast Dataset</b>.
+<br>
+See also:<a href="#7">Appendices</a><br>
+
 <br>
 The number of images of train and test image dataset:<br>
 <img src="./projects/DDSM_Mammography/_DDSM_Images_.png" width="820" height="auto">
@@ -342,7 +346,16 @@ Classification report:<br>
 <br>
 Confusion matrix:<br>
 <img src="./projects/DDSM_Mammography/evaluation/confusion_matrix.png" width="740" height="auto"><br>
+<br>
 
+<h3><a id="7">Appendices</a></h3>
+<b>1.Training by INbreast dataset</b><br>
+
+train_accuracies:<br>
+<img src="./appendices/INbreast_train_accuracies.png" width="640" height="auto"><br>
+train_losses:<br>
+<img src="./appendices/INbreast_train_losses.png"  width="640" height="auto">
+<br>
 
 <h3>References</h3>
 <b>
