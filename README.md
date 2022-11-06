@@ -350,10 +350,12 @@ Confusion matrix:<br>
 
 <h3><a id="7">Appendices</a></h3>
 <b>1.Training by INbreast dataset</b><br>
-
-train_accuracies:<br>
+In our model training by INbreast dataset, the val_accuracy and val_loss don't improve 
+even if the epochs progress, as shown below.<br>
+  
+<b>train_accuracies:</b><br>
 <img src="./appendices/INbreast_train_accuracies.png" width="640" height="auto"><br>
-train_losses:<br>
+<b>train_losses:</b><br>
 <img src="./appendices/INbreast_train_losses.png"  width="640" height="auto">
 <br>
 
