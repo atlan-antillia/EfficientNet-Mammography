@@ -22,7 +22,7 @@ EfficientNet Mammography (Updated: 2022/11/07)
 <a id="1">1 EfficientNetV2 Mammography Classification</a>
 </h2>
 
-This is an experimental project Mammography Classification based on <b>efficientnetv2</b> in <a href="https://github.com/google/automl">Brain AutoML</a>
+This is an experimental project Breast Mammographic Image Classification based on <b>efficientnetv2</b> in <a href="https://github.com/google/automl">Brain AutoML</a>
 The Mammography dataset used here has been taken from the following web site:<br>
  <a href="https://data.mendeley.com/datasets/ywsbh3ndr8/5">Dataset of Breast mammography images with Masses (License: CC BY 4.0)</a>
 <br>
